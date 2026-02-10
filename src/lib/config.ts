@@ -1,11 +1,21 @@
 export const paymentConfig = {
-  // Business info
   business: {
     name: 'Carpintería Placito',
     tagline: 'Desde 1982',
     owner: 'Noé Plácito',
   },
-  // Mock data — actualizar cuando se abra cuenta bancaria
+  zelle: {
+    email: ''
+  },
+  venmo: {
+    handle: ''
+  },
+  wise: {
+    email: ''
+  },
+  paypal: {
+    email: ''
+  },
   wire: {
     beneficiary: 'Carpintería Placito',
     beneficiaryAddress: 'Andador Aries 109, Puerto Vallarta, Jalisco 48360',
