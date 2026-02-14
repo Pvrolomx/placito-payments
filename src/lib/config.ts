@@ -28,3 +28,5 @@ export const paymentConfig = {
   },
   whatsapp: '+52 322 294 3935'
 };
+
+// domain: placito-payments.carpinterianoeplacito.com
